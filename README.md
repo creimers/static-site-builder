@@ -6,7 +6,7 @@ This is a cookiecutter for yet another static site builder using [staticjinja](h
 
 * install [cookiecutter](https://github.com/audreyr/cookiecutter)
 
-* run `cookiecutter gh:github.com/creimers/static-site-builder `
+* run `cookiecutter gh:creimers/static-site-builder `
 
 * `cd` into the newly created directory
 
